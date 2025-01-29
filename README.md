@@ -1,8 +1,8 @@
-# webapp16
 
-## **webapp16 - Teatro DAW**
+## **webapp16 **
+## **TEATRO DAW**
 
-Gestión de eventos y venta de entradas para el teatro.
+Gestion de ventas de entradas de clubbing y conciertos y organizacion de ventos del TEATRO DAW
 
 ---
 
@@ -14,6 +14,18 @@ Gestión de eventos y venta de entradas para el teatro.
 
 ---
 
+| ID  | Nombre          | Email                           | Github            |
+|-----|-----------------|---------------------------------|-------------------|
+| 1   | Alberto Acebes  | a.acebes.2021@alumnos.urjc.es   | alberr22          |
+| 2   | Jon mazcuñan    | j.mazcunan.2022@alumnos.urjc.es | Alejandro Rico    |
+| 3   | Alejandro Rico  | a.rico.2022@alumnos.urjc.es     | jonmazh           |
+| 4   | Gaizka Aranbarri| g.aranbarri.2022@alumnos.urjc.es| GaizkaURJC           |
+
+
+
+
+
+---
 ## **Entidades**
 
 ### **1. Evento**
@@ -152,4 +164,4 @@ Nuestra aplicación contará con un sistema de recomendación de eventos para us
 
 ---
 
-¿Te gustaría incluir algo más o necesitas alguna mejora adicional? 😊
+

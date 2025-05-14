@@ -42,7 +42,7 @@ export class GenderChartComponent implements OnInit {
   constructor() { }
 
   ngOnInit(): void {
-    // Aquí puedes cargar los datos desde tu backend si es necesario
+    
   }
 
 }
